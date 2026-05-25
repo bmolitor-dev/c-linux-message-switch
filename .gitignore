@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+message_switch
+
+# Logs
+*.log
+
+# Debug/core dumps
+core
+core.*
+
+# Editor files
+.vscode/
+*.swp
